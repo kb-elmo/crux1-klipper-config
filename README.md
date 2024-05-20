@@ -18,7 +18,6 @@ If not, head over to the official [Klipper documentation](https://www.klipper3d.
 Continue here once you have a running Klipper host controller with either OctoPrint or Mainsail set-up.  
 You will need a web UI for controlling your printer as it's display won't be usable anymore later.
 
-
 ---
 
 ### Building the firmware
@@ -39,6 +38,8 @@ Enter `make` in the terminal to start the build process, this will take a moment
 
 If the build was successful you will end up with the firmware file in `out/klipper.bin`  
 Copy this to a place where you can easily access it later.
+
+---
 
 ### Flashing the firmware onto the printer
 
@@ -63,6 +64,8 @@ The flashing process will start automatically.
 PLEASE NOTE:  
 After flashing Klipper onto your printer the display will become useless and permanently show the white boot screen.  
 Unfortunately the display that Tronxy uses is a proprietary design that is not compatible with any other firmware.
+
+---
 
 ### Configuring the printer
 
