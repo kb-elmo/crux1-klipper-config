@@ -1,7 +1,7 @@
 # Crux1 Klipper Config
 
 This repo contains a tested working configuration for Klipper for the Tronxy Crux1 printer in it's unmodded, stock form.  
-A precompiled binary for the firmware is provided as well though I would recommend you to build your own, up to date one from the current Klipper main branch.
+A precompiled binary for the firmware is provided as well but I would recommend you to build your own up to date one from the current Klipper main branch.
 
 The firmware is compatible with both versions of the Tronxy motherboard (STM32F446 and GD32F4XX) since both chips are virtually identical.
 
@@ -9,7 +9,7 @@ The firmware is compatible with both versions of the Tronxy motherboard (STM32F4
 
 ### Building the firmware
 
-On your Klipper Raspberry Pi go into the Klipper directory and run `make manuconfig`.  
+On your Klipper Raspberry Pi go into the Klipper directory and run `make menuconfig`.  
 This will open a dialogue where you have to choose the options for the printer MCU.
 
 Set the options to the following:  
