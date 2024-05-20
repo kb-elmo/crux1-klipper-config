@@ -10,7 +10,7 @@ The firmware is compatible with both versions of the Tronxy motherboard (STM32F4
 ### Preface
 
 This guide only contains the steps on how to build and flash the firmware for the Tronxy Crux1 printer itself.  
-It does not go over the entire Klipper host controller setup as this is simply out of scope of this repository.  
+It does not go over the Klipper host controller setup itself as this is simply out of scope for this repository.  
 To follow it you must already have a fully set-up and working Klipper installation running on a Raspberry Pi.
 
 If not, head over to the official [Klipper documentation](https://www.klipper3d.org/Installation.html) and follow that.
