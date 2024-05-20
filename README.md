@@ -32,13 +32,13 @@ Before continuing here, please make sure that your printer is running at least b
 You can check that by looking at the top left corner on the printers display when turning it on.  
 If your version is older, download the firmware update files from the Tronxy website and flash them on your machine first.
 
-You can find them here:  
+You can find those here:  
 https://www.tronxy3d.com/pages/crux-1-open-source-firmware
 
-If you have a newer version you go ahead with flashing Klipper onto the machine.
+If you have a newer version you can go ahead with flashing Klipper onto the machine.
 
-To do that, get an SD card and format it in FAT32.
-Then create a new folder on that card called 'update' and copy the klipper.bin file from earlier into it.
+Get an SD card (ideally not the included one as it's unreliable) and format it in FAT32.  
+Create a new folder on that card called 'update' and copy the klipper.bin file from earlier into it.  
 Rename the klipper.bin file to fmw_tronxy.bin
 
 Turn your printer off, plug in the SD card and turn the printer back on.  
