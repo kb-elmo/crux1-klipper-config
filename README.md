@@ -15,8 +15,8 @@ To follow it you must already have a fully set-up and working Klipper installati
 
 If not, head over to the official [Klipper documentation](https://www.klipper3d.org/Installation.html) and follow that.
 
-Continue here once you have a running Klipper host controller with either OctoPrint or Mainsail set-up.  
-You will need a web UI for controlling your printer as it's display won't be usable anymore later.
+Continue here once you have a running Klipper host controller with either OctoPrint or a similar UI set-up.  
+You will need a webinterface for controlling your printer as it's display won't be usable anymore later.
 
 ---
 
